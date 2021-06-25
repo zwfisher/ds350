@@ -1,0 +1,7 @@
+2017-05-17 16:27:26 INFO::Mean of degrees: 18.0262172284644
+2017-05-17 16:27:33 INFO::KS statistic for poisson: 1
+2017-05-17 16:27:38 INFO::P-value for poisson: 0
+2017-05-17 16:27:40 INFO::No KS statistics are larger than 1 so reject the null that the original sample could follow a poisson distribution
+2017-05-17 16:27:43 INFO::KS Stat for Power Law distribution: 0.0824627880191345
+2017-05-17 16:27:46 INFO::P-value for Power Law KS Stat: 0.999218814890701
+2017-05-17 16:27:46 INFO::P-value is .999 so we cannot reject the null hypothesis that the original data follows a power-law distribution

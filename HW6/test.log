@@ -1,0 +1,6 @@
+2017-05-18 12:27:40 INFO::info
+2017-05-18 12:27:40 WARNING::warn
+2017-05-18 12:27:40 INFO::Unit test successful!
+2017-05-18 12:27:40 INFO::Regular logit AIC: 1319.94571337565
+2017-05-18 12:27:41 INFO::AIC of all components: 1193.6713680778
+2017-05-18 12:27:44 INFO::Number of principal components: 96 AIC: -2320.28826287823

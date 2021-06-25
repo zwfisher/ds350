@@ -1,0 +1,7 @@
+2017-04-10 08:20:13 INFO::Testing simulation
+2017-04-10 08:20:13 INFO::Test successful
+2017-04-10 08:20:13 INFO::Running simulations: 10000
+2017-04-10 08:20:13 INFO::Probability of winning when switching 0.6713
+2017-04-10 08:20:13 INFO::Probability of winning when staying 0.3427
+2017-04-10 08:20:13 INFO::Variance of switching results  0.220678377837784
+2017-04-10 08:20:13 INFO::Variance of staying results 0.225279237923792

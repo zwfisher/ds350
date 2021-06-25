@@ -1,0 +1,14 @@
+2017-04-19 19:43:47 INFO::Number of customer numbers: 663087
+2017-04-19 19:43:49 INFO::Number of farm numbers: 254004
+2017-04-19 19:43:50 INFO::Number of data points: 1892518
+2017-04-19 19:43:51 INFO::Hypothesis set 1
+2017-04-19 19:43:51 INFO::H1_0 - The data equally represents all states. That is, 2% of the total sample comes from each state.
+2017-04-19 19:43:52 INFO::H1_a - The data does not equally represent all states. That is, more than 2% of the sample is represented by at least one state.
+2017-04-19 19:43:53 INFO::X-squared: 3372873.02000615 - Degrees of Freedom: 49 - p-value < 2.2e-16
+2017-04-19 19:43:54 INFO::Reject H1_0 based on the p-value.
+2017-04-19 19:43:56 INFO::Hypothesis set 2
+2017-04-19 19:43:57 INFO::H2_0 - The data equally represents all states weighted by the number of farms per state.
+2017-04-19 19:43:57 INFO::H2_a - The data does not equally represent all states weighted by the number of farms per state. That is, the percentage of total data in the sample for at least one state is greater than the number of farms in that state divided by the total number of farms in the country.
+2017-04-19 19:43:58 INFO::X-squared: 1380832.13813416 - Degrees of Freedom: 49 - p-value < 2.2e-16
+2017-04-19 19:44:00 INFO::X-squared: 444162.149915438 - Degrees of Freedom: 49 - p-value < 2.2e-16
+2017-04-19 19:44:00 INFO::Reject H2_0 based on p-value.
